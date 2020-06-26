@@ -1,2 +1,1 @@
-# Ashu-Gangwar
-Data Science enthusiast
+# contains ML/NLP notebooks in python
